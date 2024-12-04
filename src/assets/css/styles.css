@@ -1,0 +1,61 @@
+/* General Styling */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  color: #1F1F1F;
+  padding-bottom: 100px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  font-family: 'the-seasons', serif;
+}
+
+h1 {
+  font-size: 56px;
+  line-height: 68px; 
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 44px; 
+}
+
+h3 {
+  font-size: 28px;
+  line-height: 40px; 
+}
+
+.small_body {
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.x_small_body {
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.cta_button {
+  font-size: 14px;
+}
+
+/* thin black line */
+.line-container {
+  padding: 20px 40px 0 40px; /* Add vertical spacing around the line */
+}
+/* thin black line */
+.thin-black-line {
+  display: block; 
+  width: 100%;
+  border-bottom: 1px solid #888;}
